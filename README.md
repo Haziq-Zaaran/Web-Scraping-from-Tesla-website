@@ -19,6 +19,8 @@ Scrapes tesla’s blog for:
 •	Summaries.
 •	Links to full posts.
 
+![Screenshot 2025-03-16 023802](https://github.com/user-attachments/assets/d3d45ce2-9796-4f95-827d-fa831ad032fa)
+
 ---
 
 ## Tech Stack
@@ -37,9 +39,8 @@ Scrapes tesla’s blog for:
 
 ---
 
-## Example Output
+## Output
 
-*(Include a screenshot of your Excel spreadsheet showing the extracted data)*
 ![Screenshot 2025-03-16 023730](https://github.com/user-attachments/assets/eb8bfc09-007d-4b6c-8ba7-b9b882b94ae0)
 
 
