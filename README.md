@@ -6,8 +6,10 @@ This project demonstrates my ability to extract structured data from websites us
 •	Date Posted: The publication date of the post.
 •	Summary: A brief description of the post content.
 •	Link: URL to the full blog post.
+
 This method showcase an alternative to traditional scripting languages, leveraging the power and accessibility of Excel for web scraping tasks.
-Problem Statements:
+
+## Problem Statements
 Lithium Company has commissioned me to extract and summarize data from the Tesla website (https://www.tesla.com/), specifically focusing on blog content. The objective is to gather key insights from each post, including the headline, publication date, a concise summary, a detailed description, and a direct link to the original article.
 The extracted data is presented in CSV format.
 Features
@@ -17,7 +19,10 @@ Scrapes tesla’s blog for:
 •	Summaries.
 •	Links to full posts.
 
-Tech Stack
+---
+
+## Tech Stack
+
 - **Microsoft Excel**:
     - `ExtractHTML` and `ExtractXML` functions: For web scraping.
     - Formulae (e.g., `CONCATENATE`): For data manipulation and link construction.
